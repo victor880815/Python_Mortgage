@@ -1,5 +1,3 @@
-import tkinter
-from tkinter import *
 import tkinter.tix
 from tkinter.tix import Tk, Control, ComboBox
 from tkinter.messagebox import showinfo, showwarning, showerror
